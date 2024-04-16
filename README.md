@@ -1,3 +1,7 @@
+Origional Project forked from: https://github.com/shinseung428/gan_numpy
+
+Alternate examples are provided in the `other_examples` directory, with sources noted in the file comments.
+
 # GAN in Numpy
 This is a very simple step by step implementation of GAN using only numpy.  
 Without the use of GPU, it takes too much time to generate all the numbers.  
